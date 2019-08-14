@@ -1,5 +1,5 @@
 <!--
-Author:		Daniel Kenny 
+Author:		Daniel Kenny
 Date:		March 2019
 Name:		deleteRentalCategorylistbox.php
 Purpose:	Creates a listbox of the details returned from the sql query
